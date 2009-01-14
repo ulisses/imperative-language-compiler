@@ -1,0 +1,16 @@
+let AA = 9999;
+let x = 20;
+let y = 34;
+
+if ((x && y)||(x>=0)) then print x else print AA;
+
+let z = (2/((x+y)*5));
+
+print z;
+
+if (x && y) then print 101010 else print y;
+
+[let i = 0 ; (i<=4) ; let i = (i+1)]
+	{print i;let x = (i+1);}
+
+print AA;

@@ -1,0 +1,6 @@
+let wee = 10;
+let weee = 20;
+if (x && y) then print x else print 90;
+let z = (2/((x+y)*5));
+print z;
+if (x && y) then print 101010 else print y;
